@@ -1,5 +1,9 @@
 # DevEmpower 🐙
 A **DevEmpower** é uma plataforma inovadora destinada a aprimorar as habilidades interpessoais e técnicas de desenvolvedores, preparando-os para os desafios do mercado de trabalho. Por meio de **simulações de entrevistas**, **materiais didáticos dinâmicos** e uma **comunidade de suporte**, a plataforma visa fortalecer a comunicação e a colaboração entre os profissionais da área.
+
+# Futuro MVP
+A DevEmpower está desenvolvendo um MVP (Produto Mínimo Viável) para testar a plataforma no mercado. Este MVP incluirá as principais funcionalidades, como materiais de aula, quizzes e simulações de entrevistas, além de contar com a parceria do **Grupo Carrefour** para conectar os usuários ao mercado real e proporcionar um ambiente prático de aprendizado.
+
 ## Funcionalidades Principais
 ### Material de Aula e Quizzes Interativos:
 Fornece conteúdos dinâmicos que simulam situações reais do mercado, ajudando os usuários a desenvolver habilidades práticas.
@@ -19,3 +23,10 @@ Nossa identidade visual foi criada com o intuito de transmitir **transparência*
 | Azul escuro      | `#16144D`  | Modernidade, tranquilidade, inovação                        | ![#16144D](https://via.placeholder.com/10/16144D?text=+) |
 | Verde vibrante   | `#20C881`  | Energia, renovação, crescimento                             | ![#20C881](https://via.placeholder.com/10/20C881?text=+) |
 | Azul claro       | `#00ABFF`  | Sofisticação, profundidade, seriedade                      | ![#00ABFF](https://via.placeholder.com/10/00ABFF?text=+) |
+
+## Tipografia:
+
+Poppins, equilibrando profissionalismo e acessibilidade!
+
+## Símbolo do 🐙:
+Representa adaptabilidade e inteligência, enfatizando a importância da colaboração e comunicação
