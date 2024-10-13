@@ -1,7 +1,7 @@
 # DevEmpower 🐙
 
 A DevEmpower é uma plataforma inovadora destinada a aprimorar as habilidades interpessoais e técnicas de desenvolvedores, preparando-os para os desafios do mercado de trabalho. Por meio de simulações de entrevistas, materiais didáticos dinâmicos e uma comunidade de suporte, a plataforma visa fortalecer a comunicação e a colaboração entre os profissionais da área.
-```
+
 ## Funcionalidades Principais
 ### Material de Aula e Quizzes Interativos:
 Fornece conteúdos dinâmicos que simulam situações reais do mercado, ajudando os usuários a desenvolver habilidades práticas.
@@ -11,7 +11,7 @@ Cria um espaço para troca de experiências e suporte entre desenvolvedores, pro
 
 ### Eventos Periódicos com Simulações Reais e Feedback em Tempo Real:
 Eventos periódicos com profissionais visando colocar em prática os aprendizados da plataforma, e feedbacks instantâneo fornecido por um sistema de IA, permitindo que os participantes melhorem continuamente suas habilidades.
-```
+
 
 
 <!--
