@@ -13,6 +13,18 @@ Cria um espaço para troca de experiências e suporte entre desenvolvedores, pro
 Eventos periódicos com profissionais visando colocar em prática os aprendizados da plataforma, e feedbacks instantâneo fornecido por um sistema de IA, permitindo que os participantes melhorem continuamente suas habilidades.
 
 
+# Identidade Visual
+Nossa identidade visual vem com o intuito de trazer transparencia e confiança ao usuário, mostrando que a plataforma tem o intuito e capacidade de realmente ajudar ele a solucionar seus problemas.
+
+Pilares: Transparência e Confiança.
+
+## Cores
+#EDEBEC: Bege muito claro – suavidade, calma, elegância.
+#20C8C8: Verde água – tecnologia, frescor, confiança.
+#16144D: Azul escuro – modernidade, tranquilidade, inovação.
+#20C881: Verde vibrante – energia, renovação, crescimento.
+#00ABFF: Azul claro – sofisticação, profundidade, seriedade.
+
 
 <!--
 
