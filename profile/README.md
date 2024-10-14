@@ -28,5 +28,11 @@ Nossa identidade visual foi criada com o intuito de transmitir **transparência*
 
 Poppins, equilibrando profissionalismo e acessibilidade!
 
-## Símbolo do Polvo🐙:
+## Símbolo do Polvo 🐙:
 Representa adaptabilidade e inteligência, enfatizando a importância da colaboração e comunicação
+
+# Protótipo
+
+![Tela de cadastro](assets/TelaCadastro)
+
+
