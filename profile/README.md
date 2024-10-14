@@ -33,6 +33,6 @@ Representa adaptabilidade e inteligência, enfatizando a importância da colabor
 
 # Protótipo
 
-![Tela de cadastro](assets/TelaCadastro)
+![Tela de cadastro](/assets/TelaCadastro)
 
 
