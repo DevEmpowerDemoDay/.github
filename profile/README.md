@@ -33,9 +33,12 @@ Representa adaptabilidade e inteligência, enfatizando a importância da colabor
 <div align="center">
 <h1>Protótipo</h1>
 <div>
+<img src="assets/logotipo02.png" alt="Tela de cadastro" width="200" />
 <img src="assets/TelaCadastro.png" alt="Tela de cadastro" width="400" />
 <img src="assets/TelaCadastro-1.png" alt="Tela de cadastro" width="400" />
 <img src="assets/TelaLogin.png" alt="Tela de cadastro" width="400" />
+<img src="assets/TelaCadastro.png" alt="Tela de cadastro" width="400" />
+
 </div
 </div>
 
