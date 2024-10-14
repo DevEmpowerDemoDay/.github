@@ -38,7 +38,6 @@ O polvo representa **adaptabilidade** e **inteligência**, simbolizando a import
 <div align="center">
   <h1>Protótipo</h1>
   <img src="assets/logotipo02.png" alt="Logotipo" width="400" />
-  
   <div>
     <img src="assets/TelaCadastro.png" alt="Tela de Cadastro" width="400" />
     <img src="assets/TelaCadastro-1.png" alt="Tela de Cadastro-1" width="400" />
@@ -51,10 +50,5 @@ O polvo representa **adaptabilidade** e **inteligência**, simbolizando a import
     <img src="assets/MaterialDeAula3.png" alt="Material de Aula 3" width="400" />
     <img src="assets/MaterialDeAula4.png" alt="Material de Aula 4" width="400" />
     <img src="assets/MaterialDeAula5.png" alt="Material de Aula 5" width="400" />
-  </div>
-
-  <h1>Resumo</h1>
-  <div>
-    <img src="assets/ProtótipoDevEmpower.png" alt="Protótipo resumido" width="400" />
   </div>
 </div>
