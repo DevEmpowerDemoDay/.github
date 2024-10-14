@@ -32,6 +32,10 @@ Poppins, equilibrando profissionalismo e acessibilidade!
 Representa adaptabilidade e inteligência, enfatizando a importância da colaboração e comunicação
 <div align="center">
 <h1>Protótipo</h1>
-<img src="assets/TelaCadastro.png" alt="Tela de cadastro" width="400" height="500"/>
+<div>
+<img src="assets/TelaCadastro.png" alt="Tela de cadastro" width="400" />
+<img src="assets/TelaCadastro-1.png" alt="Tela de cadastro" width="400" />
+<img src="assets/TelaLogin.png" alt="Tela de cadastro" width="400" />
+</div
 </div>
 
