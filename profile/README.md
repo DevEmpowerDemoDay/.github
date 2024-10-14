@@ -33,6 +33,7 @@ Representa adaptabilidade e inteligência, enfatizando a importância da colabor
 <div align="center">
 <h1>Protótipo</h1>
 </div>
+
 ![Tela de cadastro](assets/TelaCadastro.png)
 
 
