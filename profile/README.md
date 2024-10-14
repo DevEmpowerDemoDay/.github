@@ -35,12 +35,20 @@ Representa adaptabilidade e inteligência, enfatizando a importância da colabor
 <img src="assets/logotipo02.png" alt="Logotipo" width="400" />
 <div>
 <img src="assets/TelaCadastro.png" alt="Tela de cadastro" width="400" />
-<img src="assets/TelaCadastro-1.png" alt="Tela de cadastro" width="400" />
-<img src="assets/TelaLogin.png" alt="Tela de cadastro" width="400" />
-<img src="assets/Acompanhamento.png" alt="Tela de cadastro" width="400" />
+<img src="assets/TelaCadastro-1.png" alt="Tela de cadastro-1" width="400" />
+<img src="assets/TelaLogin.png" alt="Tela de Login" width="400" />
+<img src="assets/HomePage.png" alt="Home" width="400" />
+<img src="assets/Acompanhamento.png" alt="Acompanhamento" width="400" />
 <img src="assets/Comunidade.png" alt="Comunidade" width="400" />
-
-
+<img src="assets/MaterialDeAula1.png" alt="Material de aula 1" width="400" />
+<img src="assets/MaterialDeAula2.png" alt="Material de aula 2" width="400" />
+<img src="assets/MaterialDeAula3.png" alt="Material de aula 3" width="400" />
+<img src="assets/MaterialDeAula4.png" alt="Material de aula 4" width="400" />
+<img src="assets/MaterialDeAula5.png" alt="Material de aula 5" width="400" />
 </div
+<h1>Resumo</h1>
+<div>
+<img src="assets/ProtótipoDevEmpower.png" alt="Protótipo resumido" width="400" />
+</div>
 </div>
 
