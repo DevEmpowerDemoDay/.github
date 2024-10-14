@@ -30,9 +30,9 @@ Poppins, equilibrando profissionalismo e acessibilidade!
 
 ## Símbolo do Polvo 🐙:
 Representa adaptabilidade e inteligência, enfatizando a importância da colaboração e comunicação
-
-# Protótipo
-
+<div align="center">
+<h1>Protótipo</h1>
+</div>
 ![Tela de cadastro](assets/TelaCadastro.png)
 
 
