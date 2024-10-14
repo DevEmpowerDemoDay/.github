@@ -37,8 +37,9 @@ O polvo representa **adaptabilidade** e **inteligência**, simbolizando a import
 
 <div align="center">
   <h1>Protótipo</h1>
-  <img src="assets/logotipo02.png" alt="Logotipo"/>
-  <div>
+  <img src="assets/logotipo02.png" alt="Logotipo" style="margin-bottom: 20px;" />
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <img src="assets/TelaCadastro.png" alt="Tela de Cadastro" width="400" />
     <img src="assets/TelaCadastro-1.png" alt="Tela de Cadastro-1" width="400" />
     <img src="assets/TelaLogin.png" alt="Tela de Login" width="400" />
