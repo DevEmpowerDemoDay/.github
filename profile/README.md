@@ -7,14 +7,17 @@ A DevEmpower está desenvolvendo um MVP (Produto Mínimo Viável) para testar a 
 ## Funcionalidades Principais
 ### Material de Aula e Quizzes Interativos:
 Fornece conteúdos dinâmicos que simulam situações reais do mercado, ajudando os usuários a desenvolver habilidades práticas.
+
 ### Comunidade:
 Cria um espaço para troca de experiências e suporte entre desenvolvedores, promovendo **networking** e aprendizado colaborativo.
+
 ### Eventos Periódicos com Simulações Reais e Feedback em Tempo Real:
-Eventos periódicos com profissionais, visando colocar em prática os aprendizados da plataforma, e feedbacks instantâneos fornecidos por um sistema de IA, permitindo que os participantes melhorem continuamente suas habilidades.
+Oferece eventos periódicos com profissionais para aplicar os conhecimentos da plataforma. Feedbacks instantâneos são fornecidos por um sistema de IA, permitindo a melhoria contínua dos participantes.
 
 # Identidade Visual
-Nossa identidade visual foi criada com o intuito de transmitir **transparência** e **confiança** ao usuário, mostrando que a plataforma tem o objetivo e a capacidade de realmente ajudá-lo a solucionar seus desafios.
+Nossa identidade visual foi criada com o intuito de transmitir **transparência** e **confiança**, mostrando que a plataforma tem o objetivo e a capacidade de ajudar a resolver os desafios dos desenvolvedores.
 **Pilares**: Transparência e Confiança.
+
 ## Cores
 | Cor             | Código HEX | Significado                                                 | Exemplo de Cor       |
 |-----------------|------------|-------------------------------------------------------------|----------------------|
@@ -24,31 +27,34 @@ Nossa identidade visual foi criada com o intuito de transmitir **transparência*
 | Verde vibrante   | `#20C881`  | Energia, renovação, crescimento                             | ![#20C881](https://via.placeholder.com/10/20C881?text=+) |
 | Azul claro       | `#00ABFF`  | Sofisticação, profundidade, seriedade                      | ![#00ABFF](https://via.placeholder.com/10/00ABFF?text=+) |
 
-## Tipografia:
+## Tipografia
+**Poppins**, uma fonte que equilibra profissionalismo e acessibilidade!
 
-Poppins, equilibrando profissionalismo e acessibilidade!
+## Símbolo do Polvo 🐙
+O polvo representa **adaptabilidade** e **inteligência**, simbolizando a importância da **colaboração** e **comunicação** entre os desenvolvedores.
 
-## Símbolo do Polvo 🐙:
-Representa adaptabilidade e inteligência, enfatizando a importância da colaboração e comunicação
+---
+
 <div align="center">
-<h1>Protótipo</h1>
-<img src="assets/logotipo02.png" alt="Logotipo" width="400" />
-<div>
-<img src="assets/TelaCadastro.png" alt="Tela de cadastro" width="400" />
-<img src="assets/TelaCadastro-1.png" alt="Tela de cadastro-1" width="400" />
-<img src="assets/TelaLogin.png" alt="Tela de Login" width="400" />
-<img src="assets/HomePage.png" alt="Home" width="400" />
-<img src="assets/Acompanhamento.png" alt="Acompanhamento" width="400" />
-<img src="assets/Comunidade.png" alt="Comunidade" width="400" />
-<img src="assets/MaterialDeAula1.png" alt="Material de aula 1" width="400" />
-<img src="assets/MaterialDeAula2.png" alt="Material de aula 2" width="400" />
-<img src="assets/MaterialDeAula3.png" alt="Material de aula 3" width="400" />
-<img src="assets/MaterialDeAula4.png" alt="Material de aula 4" width="400" />
-<img src="assets/MaterialDeAula5.png" alt="Material de aula 5" width="400" />
-</div
-<h1>Resumo</h1>
-<div>
-<img src="assets/ProtótipoDevEmpower.png" alt="Protótipo resumido" width="400" />
-</div>
-</div>
+  <h1>Protótipo</h1>
+  <img src="assets/logotipo02.png" alt="Logotipo" width="400" />
+  
+  <div>
+    <img src="assets/TelaCadastro.png" alt="Tela de Cadastro" width="400" />
+    <img src="assets/TelaCadastro-1.png" alt="Tela de Cadastro-1" width="400" />
+    <img src="assets/TelaLogin.png" alt="Tela de Login" width="400" />
+    <img src="assets/HomePage.png" alt="Home" width="400" />
+    <img src="assets/Acompanhamento.png" alt="Acompanhamento" width="400" />
+    <img src="assets/Comunidade.png" alt="Comunidade" width="400" />
+    <img src="assets/MaterialDeAula1.png" alt="Material de Aula 1" width="400" />
+    <img src="assets/MaterialDeAula2.png" alt="Material de Aula 2" width="400" />
+    <img src="assets/MaterialDeAula3.png" alt="Material de Aula 3" width="400" />
+    <img src="assets/MaterialDeAula4.png" alt="Material de Aula 4" width="400" />
+    <img src="assets/MaterialDeAula5.png" alt="Material de Aula 5" width="400" />
+  </div>
 
+  <h1>Resumo</h1>
+  <div>
+    <img src="assets/ProtótipoDevEmpower.png" alt="Protótipo resumido" width="400" />
+  </div>
+</div>
