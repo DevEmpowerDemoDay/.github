@@ -21,7 +21,7 @@ Nossa identidade visual foi criada com o intuito de transmitir **transparência*
 ## Cores
 | Cor             | Código HEX | Significado                                                 | Exemplo de Cor       |
 |-----------------|------------|-------------------------------------------------------------|----------------------|
-| Bege muito claro | `#EDEBEC`  | Suavidade, calma, elegância                                 | ![#EDEBEC](https://via.placeholder.com/10/EDEBEC?text=+) |
+| Azul muito escuro | `#020634`  | Profundidade, confiança e seriedade                                 | ![#020634](https://via.placeholder.com/10/020634?text=+) |
 | Verde água       | `#20C8C8`  | Tecnologia, frescor, confiança                              | ![#20C8C8](https://via.placeholder.com/10/20C8C8?text=+) |
 | Azul escuro      | `#16144D`  | Modernidade, tranquilidade, inovação                        | ![#16144D](https://via.placeholder.com/10/16144D?text=+) |
 | Verde vibrante   | `#20C881`  | Energia, renovação, crescimento                             | ![#20C881](https://via.placeholder.com/10/20C881?text=+) |
