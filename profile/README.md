@@ -24,7 +24,7 @@ Nossa identidade visual foi criada com o intuito de transmitir **transparência*
 | Azul muito escuro | `#020634`  | Profundidade, confiança e seriedade.                                 | ![#020634](https://via.placeholder.com/10/020634?text=+) |
 | Roxo intenso       | `#5416be`  | Criatividade, sabedoria e inovação.                             | ![#5416be](https://via.placeholder.com/10/5416be?text=+) |
 | Azul claro      | `#2992f9`  | Frescor, comunicação e clareza.                        | ![#2992f9](https://via.placeholder.com/10/2992f9?text=+) |
-| Cinza claro   | `#f6f6f6`  | Simplicidade, neutralidade e modernidade.                             | ![#f6f6f6](https://via.placeholder.com/10/F6F6F6?text=+) |
+| Cinza claro   | `#f6f6f6`  | Simplicidade, neutralidade e modernidade.                             | ![#f6f6f6](https://via.placeholder.com/10/f6f6f6?text=+) |
 ## Tipografia
 **Poppins**, uma fonte que equilibra profissionalismo e acessibilidade!
 
