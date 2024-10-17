@@ -21,9 +21,9 @@ Nossa identidade visual foi criada com o intuito de transmitir **transparência*
 ## Cores
 | Cor             | Código HEX | Significado                                                 | Exemplo de Cor       |
 |-----------------|------------|-------------------------------------------------------------|----------------------|
-| Azul muito escuro | `#020634`  | Profundidade, confiança e seriedade                                 | ![#020634](https://via.placeholder.com/10/020634?text=+) |
-| Verde água       | `#20C8C8`  | Tecnologia, frescor, confiança                              | ![#20C8C8](https://via.placeholder.com/10/20C8C8?text=+) |
-| Azul escuro      | `#16144D`  | Modernidade, tranquilidade, inovação                        | ![#16144D](https://via.placeholder.com/10/16144D?text=+) |
+| Azul muito escuro | `#020634`  | Profundidade, confiança e seriedade.                                 | ![#020634](https://via.placeholder.com/10/020634?text=+) |
+| Roxo intenso       | `#5416be`  | Criatividade, sabedoria e inovação.                             | ![#5416be](https://via.placeholder.com/10/5416be?text=+) |
+| Azul claro      | `#2992f9`  | Frescor, comunicação e clareza.                        | ![#2992f9](https://via.placeholder.com/10/2992f9?text=+) |
 | Verde vibrante   | `#20C881`  | Energia, renovação, crescimento                             | ![#20C881](https://via.placeholder.com/10/20C881?text=+) |
 | Azul claro       | `#00ABFF`  | Sofisticação, profundidade, seriedade                      | ![#00ABFF](https://via.placeholder.com/10/00ABFF?text=+) |
 
