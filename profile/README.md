@@ -25,6 +25,11 @@ Nossa identidade visual foi criada com o intuito de transmitir **transparência*
 | Roxo intenso       | `#5416be`  | Criatividade, sabedoria e inovação.                             | ![#5416be](https://via.placeholder.com/10/5416be?text=+) |
 | Azul claro      | `#2992f9`  | Frescor, comunicação e clareza.                        | ![#2992f9](https://via.placeholder.com/10/2992f9?text=+) |
 | Cinza claro   | `#f6f6f6`  | Simplicidade, neutralidade e modernidade.                             | ![#f6f6f6](https://via.placeholder.com/10/f6f6f6?text=+) |
+
+  Essas cores juntas transmitem uma mensagem de inovação, confiança e comunicação eficaz.
+  Refletem uma combinação de habilidades valiosas para o sucesso profissional: criatividade,
+  liderança, empatia e objetividade.
+
 ## Tipografia
 **Poppins**, uma fonte que equilibra profissionalismo e acessibilidade!
 
