@@ -1,7 +1,3 @@
-Aqui está a tabela e a formatação corrigida para o texto:
-
----
-
 # DevEmpower 🐙
 A **DevEmpower** é uma plataforma inovadora destinada a aprimorar as habilidades interpessoais e técnicas de desenvolvedores, preparando-os para os desafios do mercado de trabalho. Por meio de **simulações de entrevistas**, **materiais didáticos dinâmicos** e uma **comunidade de suporte**, a plataforma visa fortalecer a comunicação e a colaboração entre os profissionais da área.
 
