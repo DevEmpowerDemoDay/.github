@@ -19,12 +19,12 @@ Nossa identidade visual foi criada com o intuito de transmitir **transparência*
 **Pilares**: Transparência e Confiança.
 
 ## Cores
-| Cor             | Código HEX | Significado                                                 | Exemplo de Cor       |
+| Cor             | Código HEX | Exemplo de Cor       |
 |-----------------|------------|-------------------------------------------------------------|----------------------|
-| Azul muito escuro | `#020634`  | Profundidade, confiança e seriedade.                                 | ![#020634](https://via.placeholder.com/10/020634?text=+) |
-| Roxo intenso       | `#5416be`  | Criatividade, sabedoria e inovação.                             | ![#5416be](https://via.placeholder.com/10/5416be?text=+) |
-| Azul claro      | `#2992f9`  | Frescor, comunicação e clareza.                        | ![#2992f9](https://via.placeholder.com/10/2992f9?text=+) |
-| Cinza claro   | `#f6f6f6`  | Simplicidade, neutralidade e modernidade.                             | ![#f6f6f6](https://via.placeholder.com/10/f6f6f6?text=+) |
+| Uranian Blue | `#AEDFF7`  ||![#AEDFF7](https://via.placeholder.com/10/AEDFF7?text=+) |
+| Roxo intenso       | `#5416be`  ||![#5416be](https://via.placeholder.com/10/5416be?text=+) |
+| Azul claro      | `#2992f9`  ||![#2992f9](https://via.placeholder.com/10/2992f9?text=+) |
+| Cinza claro   | `#f6f6f6`  || ![#f6f6f6](https://via.placeholder.com/10/f6f6f6?text=+) |
 
   Essas cores juntas transmitem uma mensagem de inovação, confiança e comunicação eficaz.
   Refletem uma combinação de habilidades valiosas para o sucesso profissional: criatividade,
