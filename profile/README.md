@@ -41,8 +41,6 @@ competência essencial – como linguagem de programação, soft skills, resolu�
 
 
 ---
-
 <div align="center">
-  <h1>Protótipo</h1>
-  <img src="assets/logotipo02.png" alt="Logotipo" style="margin-bottom: 20px; width: 100%;" />
+  <img src="assets/logotipo02.png" alt="Logotipo" style="margin-bottom: 20px;" />
 </div>
