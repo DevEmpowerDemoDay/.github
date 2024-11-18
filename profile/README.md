@@ -4,13 +4,10 @@ A **DevEmpower** é uma plataforma inovadora destinada a aprimorar as habilidade
 ## Funcionalidades Principais
 
 ### Material de Aula e Quizzes Interativos
-Fornece conteúdos dinâmicos que simulam situações reais do mercado, ajudando os usuários a desenvolver habilidades práticas.
+Fornece conteúdos dinâmicos que simulam situações reais do mercado, ajudando os usuários a desenvolver habilidades práticas. Todos esse materiais serão aprovados por profissionais especializados em trabalhar com TEA como: pedagogos, psicólogos e profissionais já inseridos na área.
 
 ### Comunidade
-Cria um espaço para troca de experiências e suporte entre desenvolvedores, promovendo **networking** e aprendizado colaborativo.
-
-### Eventos Periódicos com Simulações Reais e Feedback em Tempo Real
-Oferece eventos periódicos com profissionais para aplicar os conhecimentos da plataforma. Feedbacks instantâneos são fornecidos por um sistema de IA, permitindo a melhoria contínua dos participantes.
+Cria um espaço para troca de experiências e suporte entre desenvolvedores, promovendo **networking** e **aprendizado colaborativo**. Com mentores, profissionais da área e outros usuários.
 
 # Identidade Visual
 Nossa identidade visual foi criada com o intuito de transmitir **transparência** e **confiança**, mostrando que a plataforma tem o objetivo e a capacidade de ajudar a resolver os desafios dos desenvolvedores, além disso, escolhemos cores simples e limpas que ajudam a não poluir a tela, a fim de manter o ambiente agradável.
