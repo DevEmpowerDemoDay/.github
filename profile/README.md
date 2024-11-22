@@ -1,10 +1,10 @@
 # DevEmpower 🐙
-A **DevEmpower** é uma plataforma inovadora destinada a aprimorar as habilidades interpessoais e técnicas de desenvolvedores com TEA. Nós buscamos ser o aplicativo de capacitação ideal para pessoas com TEA, desenvolvendo habilidades pessoais e profissionais de forma acessível e interativa, para superar desafios no mercado de trabalho
+A **DevEmpower** é uma plataforma inovadora destinada a aprimorar as habilidades interpessoais e técnicas de desenvolvedores. Nós buscamos ser o aplicativo de capacitação ideal para os desenvolvedores, desenvolvendo habilidades pessoais e profissionais de forma acessível e interativa, para superar desafios no mercado de trabalho
 
 ## Funcionalidades Principais
 
 ### Material de Aula e Quizzes Interativos
-Fornece conteúdos dinâmicos que simulam situações reais do mercado, ajudando os usuários a desenvolver habilidades práticas. Todos esse materiais serão aprovados por profissionais especializados em trabalhar com TEA como: pedagogos, psicólogos e profissionais já inseridos na área.
+Fornece conteúdos dinâmicos que simulam situações reais do mercado, ajudando os usuários a desenvolver habilidades práticas.
 
 ### Comunidade
 Cria um espaço para troca de experiências e suporte entre desenvolvedores, promovendo **networking** e **aprendizado colaborativo**. Com mentores, profissionais da área e outros usuários.
