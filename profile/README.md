@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/assets/Logotipo.png" alt="Logotipo" style="margin-bottom: 20px;" />
+  <img src="assets/Logotipo.png" alt="Logotipo" style="margin-bottom: 20px;" />
 </div>
 
 
