@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="profile/assets/Logotipo.png" alt="Logotipo" style="margin-bottom: 20px;" />
+</div>
+
+
 # DevEmpower 🐙
 A **DevEmpower** é uma plataforma inovadora destinada a aprimorar as habilidades interpessoais e técnicas de desenvolvedores. Nós buscamos ser o aplicativo de capacitação ideal para os desenvolvedores, desenvolvendo habilidades pessoais e profissionais de forma acessível e interativa, para superar desafios no mercado de trabalho
 
@@ -37,6 +42,3 @@ competência essencial – como linguagem de programação, soft skills, resolu�
 
 
 ---
-<div align="center">
-  <img src="assets/logotipo02.png" alt="Logotipo" style="margin-bottom: 20px;" />
-</div>
