@@ -61,12 +61,19 @@ Utilizamos a fonte **Poppins**, que oferece um equilíbrio entre **modernidade**
 
 ---
 
-## 🐙 **Símbolo do Polvo**  
-O polvo representa a **versatilidade** e a **adaptabilidade** dos desenvolvedores, simbolizando as competências essenciais:  
-- Linguagem de programação  
-- Soft skills  
-- Resolução de problemas  
-- Inovação  
+## 🐙 **Símbolo do Polvo**
+
+O polvo é o símbolo que representa a **inteligência** e a **adaptabilidade**, destacando as habilidades essenciais dos desenvolvedores. Seus tentáculos representam a **conexão e colaboração** entre os devs, formando uma rede de apoio forte e dinâmica.
+
+### O polvo simboliza as competências fundamentais dos desenvolvedores:
+
+- **Linguagens de Programação:** A capacidade de dominar diferentes tecnologias.
+- **Soft Skills:** Habilidades interpessoais e comunicação eficaz.
+- **Resolução de Problemas:** A habilidade de encontrar soluções criativas e eficazes.
+- **Inovação:** A busca constante por novas maneiras de melhorar e evoluir.
+
+Essas qualidades formam a base da jornada de desenvolvimento e crescimento de um profissional na área de tecnologia, e o polvo reflete essa capacidade de adaptação, transformação e colaboração.
+
 
 ---
 
