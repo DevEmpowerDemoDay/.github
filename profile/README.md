@@ -78,15 +78,8 @@ O polvo representa a **versatilidade** e a **adaptabilidade** dos desenvolvedore
 
 Aqui estão os talentos por trás da DevEmpower:  
 
-| **Nome**               | **Função**                    |  
-|------------------------|-------------------------------|  
-| **Murilo Coelho**       | Product Owner                 |  
-| **Andressa Prudente**   | Scrum Master                  |  
-| **Tina (Anna Cristina)**| Financeiro e Front-End         |  
-| **Hudson Souza**        | Front-End                     |  
-| **Maykon Silva**        | Full Stack                    |  
-| **Kauan Lusbel**        | Back-End                      |  
-| **Victor Curtis**       | Back-End e Financeiro          |  
-| **Matheus Oliveira**    | Full Stack                    |  
+<div align="center">
+  <img src="foto_Andressa.png" alt="Logotipo DevEmpower" style="width: 400px; height: auto; margin-bottom: 20px;" />
+</div>
 
 ---
