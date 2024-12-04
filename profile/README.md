@@ -43,7 +43,9 @@ Espaço de troca de experiências, networking e suporte com **mentores**, **prof
 as mentorias focam no desenvolvimento contínuo e na adaptação à cultura da empresa, auxiliando na integração e no sucesso dentro do ambiente corporativo.
 
 
-
+<div align="center">
+  <img src="assets/tela materiais 1 (1)" alt="Logotipo" style="width: 400px; height: auto; margin-bottom: 10px;" />
+</div>
 
 ---
 
