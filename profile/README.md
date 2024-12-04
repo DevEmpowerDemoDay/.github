@@ -1,3 +1,7 @@
+
+
+   <img src="assets/logo_with_text.png" alt="logo DevEmpower" width="250" height="250" style="border-radius: 50%;" />
+
 # Bem-vindo(a) à **DevEmpower** 🐙  
 
 A **DevEmpower** é uma plataforma inovadora que capacita desenvolvedores, focando tanto em **soft skills** quanto em habilidades técnicas, preparando-os para enfrentar os desafios reais do mercado de trabalho de forma acessível e interativa.
