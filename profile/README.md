@@ -1,6 +1,29 @@
 <div align="center">
-  <img src="assets/logo_with_text.png" alt="Logotipo DevEmpower" style="width: 400px; height: auto; margin-bottom: 20px;" />
+  <img src="assets/foto_Andressa.png" alt="Logotipo DevEmpower" style="width: 400px; height: auto; margin-bottom: 20px;" />
 </div>
+<div align="center">
+  <img src="assets/foto_Andressa.png" alt="Logotipo DevEmpower" style="width: 400px; height: auto; margin-bottom: 20px;" />
+</div>
+<div align="center">
+  <img src="assets/foto_Andressa.png" alt="Logotipo DevEmpower" style="width: 400px; height: auto; margin-bottom: 20px;" />
+</div>
+<div align="center">
+  <img src="assets/foto_Andressa.png" alt="Logotipo DevEmpower" style="width: 400px; height: auto; margin-bottom: 20px;" />
+</div>
+<div align="center">
+  <img src="assets/foto_Andressa.png" alt="Logotipo DevEmpower" style="width: 400px; height: auto; margin-bottom: 20px;" />
+</div>
+<div align="center">
+  <img src="assets/foto_Andressa.png" alt="Logotipo DevEmpower" style="width: 400px; height: auto; margin-bottom: 20px;" />
+</div>
+<div align="center">
+  <img src="assets/foto_Andressa.png" alt="Logotipo DevEmpower" style="width: 400px; height: auto; margin-bottom: 20px;" />
+</div>
+<div align="center">
+  <img src="assets/foto_Andressa.png" alt="Logotipo DevEmpower" style="width: 400px; height: auto; margin-bottom: 20px;" />
+</div>
+
+
 
 # Bem-vindo(a) à **DevEmpower** 🐙  
 
