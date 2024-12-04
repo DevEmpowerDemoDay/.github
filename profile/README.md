@@ -83,7 +83,7 @@ Aqui estão os talentos por trás da DevEmpower:
   </figure>
 
   <figure style="text-align: center;">
-    <a href="https://www.linkedin.com/in/andressaprudente/" target="_blank">
+    <a href="https://www.linkedin.com/in/andressa-prudente-morais/" target="_blank">
       <img src="assets/foto_Andressa.png" alt="Andressa Prudente" width="300" height="300" style="border-radius: 50%;" />
     </a>
   </figure>
@@ -103,7 +103,7 @@ Aqui estão os talentos por trás da DevEmpower:
   </figure>
 
   <figure style="text-align: center;">
-    <a href="https://www.linkedin.com/in/maykonsilva/" target="_blank">
+    <a href="https://www.linkedin.com/in/maykon-silva-dev/" target="_blank">
       <img src="assets/foto_Maykon.png" alt="Maykon Silva" width="300" height="300" style="border-radius: 50%;" />
     </a>
   </figure>
