@@ -1,86 +1,92 @@
 <div align="center">
-  <img src="assets/logo_with_text.png" alt="Logotipo" style="width: 400px; height: auto; margin-bottom: 10px;" />
+  <img src="assets/logo_with_text.png" alt="Logotipo DevEmpower" style="width: 400px; height: auto; margin-bottom: 20px;" />
 </div>
 
 # Bem-vindo(a) à **DevEmpower** 🐙  
 
-A **DevEmpower** é uma plataforma que aprimora habilidades interpessoais e técnicas de desenvolvedores, oferecendo capacitação acessível e interativa para superar desafios do mercado de trabalho.
+A **DevEmpower** é uma plataforma inovadora que capacita desenvolvedores, focando tanto em **soft skills** quanto em habilidades técnicas, preparando-os para enfrentar os desafios reais do mercado de trabalho de forma acessível e interativa.
 
 ---
 
-## Missão  
-Ajudar novos profissionais da tecnologia a se destacarem no mercado, oferecendo uma plataforma focada em **soft skills** e desenvolvimento profissional.  
+## 🚀 **Nossa Missão**  
+Capacitar novos profissionais da tecnologia para se destacarem no mercado, oferecendo uma abordagem prática centrada em desenvolvimento interpessoal e técnico.  
 
-## Visão  
-Ser a plataforma de capacitação mais completa, preparando desenvolvedores para enfrentar desafios dos processos seletivos na área de tecnologia.  
+## 🌟 **Nossa Visão**  
+Ser a plataforma líder em capacitação tecnológica, reconhecida por preparar desenvolvedores para superar os desafios dos processos seletivos e conquistar posições de destaque.  
 
-## Valores  
+## 💡 **Nossos Valores**  
 - **Prática e Inovação**  
 - **Ética e Transparência**  
 - **Inclusão e Diversidade**  
-- **Empatia**  
-- **Colaboração**  
+- **Empatia e Colaboração**  
 
 ---
 
-## ODS 8 - Trabalho Decente e Crescimento Econômico  
-Nosso compromisso é contribuir para um mercado de trabalho mais inclusivo e preparado, alinhado aos objetivos de desenvolvimento sustentável.  
-
-## Contexto
-A DevEmpower prepara desenvolvedores para desafios do mercado, focando em soft skills como comunicação e trabalho em equipe, conectando talentos a empresas que valorizam diversidade e inovação.
+## 🌍 **Compromisso com o ODS 8**  
+Estamos comprometidos com o Objetivo de Desenvolvimento Sustentável (ODS) 8, promovendo trabalho decente e crescimento econômico por meio da inclusão e capacitação de profissionais de tecnologia.
 
 ---
 
-## Funcionalidades Principais  
+## 🛠️ **Funcionalidades Principais**  
 
-### 1. **Material de Aula e Quizzes Interativos**  
-Conteúdos dinâmicos simulando situações reais do mercado, desenvolvendo habilidades práticas.  
+### 1. **Materiais Interativos e Quizzes**  
+Conteúdo dinâmico que simula cenários reais do mercado, permitindo o desenvolvimento de habilidades práticas.  
 
-### 2. **Comunidade**  
-Espaço de troca de experiências, networking e suporte com **mentores**, **profissionais da área** e outros usuários.
+### 2. **Comunidade Ativa**  
+Espaço para troca de experiências, networking e suporte contínuo com **mentores** e **profissionais da área**.  
 
-### 3. **Mentorias Individuais**
-as mentorias focam no desenvolvimento contínuo e na adaptação à cultura da empresa, auxiliando na integração e no sucesso dentro do ambiente corporativo.
+### 3. **Mentorias Individuais**  
+Apoio personalizado para integração e desenvolvimento contínuo no ambiente corporativo.
 
-
-<div align="center">
-  <img src="assets/tela materiais 1 (1)" alt="Logotipo" style="width: 400px; height: auto; margin-bottom: 10px;" />
-</div>
 
 ---
 
-## Identidade Visual  
-Nossa identidade visual reflete **transparência** e **confiança**, com um design limpo que proporciona um ambiente agradável e focado na experiência do usuário.  
+## 🎨 **Identidade Visual**  
 
-### **Pilares**  
+Nossa identidade visual reflete **transparência** e **confiança**, com um design que prioriza a experiência do usuário.  
+
+### **Pilares Fundamentais**  
 - Transparência  
 - Confiança  
 
-### **Cores**  
+### **Paleta de Cores**  
 
-| Cor             | Código HEX | Exemplo de Cor       |
+| Cor             | Código HEX | Exemplo              |
 |-----------------|------------|----------------------|
-| Uranian Blue    | #AEDFF7  | ![#AEDFF7](https://via.placeholder.com/10/AEDFF7?text=+) |
-| Celadon         | #A8D5BA  | ![#A8D5BA](https://via.placeholder.com/10/A8D5BA?text=+) |
-| White Smoke     | #F5F5F5  | ![#F5F5F5](https://via.placeholder.com/10/F5F5F5?text=+) |
-| Indigo Dye      | #005377  | ![#005377](https://via.placeholder.com/10/005377?text=+) |  
-
-Essas cores transmitem inovação, confiança e comunicação eficaz, refletindo valores como **criatividade**, **liderança**, **empatia** e **objetividade**.
+| Uranian Blue    | `#AEDFF7`  | ![#AEDFF7](https://via.placeholder.com/10/AEDFF7?text=+) |
+| Celadon         | `#A8D5BA`  | ![#A8D5BA](https://via.placeholder.com/10/A8D5BA?text=+) |
+| White Smoke     | `#F5F5F5`  | ![#F5F5F5](https://via.placeholder.com/10/F5F5F5?text=+) |
+| Indigo Dye      | `#005377`  | ![#005377](https://via.placeholder.com/10/005377?text=+) |  
 
 ---
 
-## Tipografia  
-Utilizamos a fonte **Poppins**, que equilibra **profissionalismo** e **acessibilidade**, proporcionando uma leitura clara e moderna.
+## 🖋️ **Tipografia**  
+Utilizamos a fonte **Poppins**, que oferece um equilíbrio entre **modernidade** e **acessibilidade**, proporcionando uma leitura clara e profissional.
 
 ---
 
-## Símbolo do Polvo 🐙  
-O polvo simboliza a versatilidade e a força dos desenvolvedores. Cada tentáculo representa uma competência essencial, como:  
+## 🐙 **Símbolo do Polvo**  
+O polvo representa a **versatilidade** e a **adaptabilidade** dos desenvolvedores, simbolizando as competências essenciais:  
 - Linguagem de programação  
 - Soft skills  
 - Resolução de problemas  
 - Inovação  
 
-Visualmente, o polvo apresenta linhas modernas e formas geométricas que remetem a **circuitos e conexões digitais**, unindo natureza multifuncional e tecnologia.
+---
+
+## 📢 **Nossa Equipe**  
+
+Aqui estão os talentos por trás da DevEmpower:  
+
+| **Nome**               | **Função**                    |  
+|------------------------|-------------------------------|  
+| **Murilo Coelho**       | Product Owner                 |  
+| **Andressa Prudente**   | Scrum Master                  |  
+| **Tina (Anna Cristina)**| Financeiro e Front-End         |  
+| **Hudson Souza**        | Front-End                     |  
+| **Maykon Silva**        | Full Stack                    |  
+| **Kauan Lusbel**        | Back-End                      |  
+| **Victor Curtis**       | Back-End e Financeiro          |  
+| **Matheus Oliveira**    | Full Stack                    |  
 
 ---
