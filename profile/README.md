@@ -89,7 +89,7 @@ Aqui estão os talentos por trás da DevEmpower:
   </figure>
 
   <figure style="text-align: center;">
-    <a href="https://www.linkedin.com/in/annacristina/" target="_blank">
+    <a href="https://www.linkedin.com/in/anna-cristina-/" target="_blank">
       <img src="assets/foto_Anna.png" alt="Anna Cristina" width="300" height="300" style="border-radius: 50%;" />
     </a>
   </figure>
@@ -97,7 +97,7 @@ Aqui estão os talentos por trás da DevEmpower:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px; padding-left: 50px; padding-right: 50px;">
   <figure style="text-align: center;">
-    <a href="https://www.linkedin.com/in/hudson/" target="_blank">
+    <a href="https://www.linkedin.com/in/hudsonsouza1914/" target="_blank">
       <img src="assets/foto_Hudson.png" alt="Hudson" width="300" height="300" style="border-radius: 50%;" />
     </a>
   </figure>
@@ -109,7 +109,7 @@ Aqui estão os talentos por trás da DevEmpower:
   </figure>
 
   <figure style="text-align: center;">
-    <a href="https://www.linkedin.com/in/kauanlusbel/" target="_blank">
+    <a href="https://www.linkedin.com/in/kauan-lusbel/" target="_blank">
       <img src="assets/foto_Kauan.png" alt="Kauan Lusbel" width="300" height="300" style="border-radius: 50%;" />
     </a>
   </figure>
@@ -117,13 +117,13 @@ Aqui estão os talentos por trás da DevEmpower:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 120px; padding-left: 50px; padding-right: 50px;">
   <figure style="text-align: center;">
-    <a href="https://www.linkedin.com/in/victorcurtis/" target="_blank">
+    <a href="https://www.linkedin.com/in/victor-zampella/" target="_blank">
       <img src="assets/foto_Victor.png" alt="Victor Curtis" width="300" height="300" style="border-radius: 50%;" />
     </a>
   </figure>
 
   <figure style="text-align: center;">
-    <a href="https://www.linkedin.com/in/matheusoliveira/" target="_blank">
+    <a href="https://www.linkedin.com/in/matheusolvcosta/" target="_blank">
       <img src="assets/foto_Matheus.png" alt="Matheus Oliveira" width="300" height="300" style="border-radius: 50%;" />
     </a>
   </figure>
