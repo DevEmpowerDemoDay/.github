@@ -75,52 +75,43 @@ O polvo representa a **versatilidade** e a **adaptabilidade** dos desenvolvedore
 Aqui estão os talentos por trás da DevEmpower:  
 
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px; padding-left: 50px; padding-right: 50px;">
   <figure style="text-align: center;">
-    <img src="assets/foto_Murilo.png" alt="Murilo Coelho" width="220" height="220" style="border-radius: 50%;" />
-    <figcaption>Murilo Coelho</figcaption>
+    <img src="assets/foto_Murilo.png" alt="Murilo Coelho" width="300" height="300" style="border-radius: 50%;" />
   </figure>
 
   <figure style="text-align: center;">
-    <img src="assets/foto_Andressa.png" alt="Andressa Prudente" width="220" height="220" style="border-radius: 50%;" />
-    <figcaption>Andressa Prudente</figcaption>
+    <img src="assets/foto_Andressa.png" alt="Andressa Prudente" width="300" height="300" style="border-radius: 50%;" />
   </figure>
 
   <figure style="text-align: center;">
-    <img src="assets/foto_Anna.png" alt="Anna Cristina" width="220" height="220" style="border-radius: 50%;" />
-    <figcaption>Anna Cristina</figcaption>
+    <img src="assets/foto_Anna.png" alt="Anna Cristina" width="300" height="300" style="border-radius: 50%;" />
   </figure>
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px; padding-left: 50px; padding-right: 50px;">
   <figure style="text-align: center;">
-    <img src="assets/foto_Hudson.png" alt="Hudson" width="220" height="220" style="border-radius: 50%;" />
-    <figcaption>Hudson</figcaption>
+    <img src="assets/foto_Hudson.png" alt="Hudson" width="300" height="300" style="border-radius: 50%;" />
   </figure>
 
   <figure style="text-align: center;">
-    <img src="assets/foto_Maykon.png" alt="Maykon Silva" width="220" height="220" style="border-radius: 50%;" />
-    <figcaption>Maykon Silva</figcaption>
+    <img src="assets/foto_Maykon.png" alt="Maykon Silva" width="300" height="300" style="border-radius: 50%;" />
   </figure>
 
   <figure style="text-align: center;">
-    <img src="assets/foto_Kauan.png" alt="Kauan Lusbel" width="220" height="220" style="border-radius: 50%;" />
-    <figcaption>Kauan Lusbel</figcaption>
+    <img src="assets/foto_Kauan.png" alt="Kauan Lusbel" width="300" height="300" style="border-radius: 50%;" />
   </figure>
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 100px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 120px; padding-left: 50px; padding-right: 50px;">
   <figure style="text-align: center;">
-    <img src="assets/foto_Victor.png" alt="Victor Curtis" width="220" height="220" style="border-radius: 50%;" />
-    <figcaption>Victor Curtis</figcaption>
+    <img src="assets/foto_Victor.png" alt="Victor Curtis" width="300" height="300" style="border-radius: 50%;" />
   </figure>
 
   <figure style="text-align: center;">
-    <img src="assets/foto_Matheus.png" alt="Matheus Oliveira" width="220" height="220" style="border-radius: 50%;" />
-    <figcaption>Matheus Oliveira</figcaption>
+    <img src="assets/foto_Matheus.png" alt="Matheus Oliveira" width="300" height="300" style="border-radius: 50%;" />
   </figure>
 </div>
-
 
 
 
