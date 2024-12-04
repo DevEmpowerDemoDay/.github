@@ -1,44 +1,77 @@
 <div align="center">
-  <img src="assets/Logotipo.png" alt="Logotipo" style="margin-bottom: 20px;" />
+  <img src="assets/logo_with_text.png" alt="Logotipo" style="width: 400px; height: auto; margin-bottom: 10px;" />
 </div>
 
+# Bem-vindo(a) à **DevEmpower** 🐙  
 
-# DevEmpower 🐙
-A **DevEmpower** é uma plataforma inovadora destinada a aprimorar as habilidades interpessoais e técnicas de desenvolvedores. Nós buscamos ser o aplicativo de capacitação ideal para os desenvolvedores, desenvolvendo habilidades pessoais e profissionais de forma acessível e interativa, para superar desafios no mercado de trabalho
+A **DevEmpower** é uma plataforma que aprimora habilidades interpessoais e técnicas de desenvolvedores, oferecendo capacitação acessível e interativa para superar desafios do mercado de trabalho.
 
-## Funcionalidades Principais
+---
 
-### Material de Aula e Quizzes Interativos
-Fornece conteúdos dinâmicos que simulam situações reais do mercado, ajudando os usuários a desenvolver habilidades práticas.
+## Nossa Missão  
+Ajudar novos profissionais da tecnologia a se destacarem no mercado, oferecendo uma plataforma focada em **soft skills** e desenvolvimento profissional.  
 
-### Comunidade
-Cria um espaço para troca de experiências e suporte entre desenvolvedores, promovendo **networking** e **aprendizado colaborativo**. Com mentores, profissionais da área e outros usuários.
+## Nossa Visão  
+Ser a plataforma de capacitação mais completa, preparando desenvolvedores para enfrentar desafios dos processos seletivos na área de tecnologia.  
 
-# Identidade Visual
-Nossa identidade visual foi criada com o intuito de transmitir **transparência** e **confiança**, mostrando que a plataforma tem o objetivo e a capacidade de ajudar a resolver os desafios dos desenvolvedores, além disso, escolhemos cores simples e limpas que ajudam a não poluir a tela, a fim de manter o ambiente agradável.
-  
-**Pilares**: Transparência e Confiança.
+## Nossos Valores  
+- **Prática e Inovação**  
+- **Ética e Transparência**  
+- **Inclusão e Diversidade**  
+- **Empatia**  
+- **Colaboração**  
 
-## Cores
+---
+
+## ODS 8 - Trabalho Decente e Crescimento Econômico  
+
+Nosso compromisso é contribuir para um mercado de trabalho mais inclusivo e preparado, alinhado aos objetivos de desenvolvimento sustentável.  
+
+---
+
+## Funcionalidades Principais  
+
+### 1. **Material de Aula e Quizzes Interativos**  
+Conteúdos dinâmicos simulando situações reais do mercado, desenvolvendo habilidades práticas.  
+
+### 2. **Comunidade**  
+Espaço de troca de experiências, networking e suporte com **mentores**, **profissionais da área** e outros usuários.
+
+---
+
+## Identidade Visual  
+Nossa identidade visual reflete **transparência** e **confiança**, com um design limpo que proporciona um ambiente agradável e focado na experiência do usuário.  
+
+### **Pilares**  
+- Transparência  
+- Confiança  
+
+### **Cores**  
 
 | Cor             | Código HEX | Exemplo de Cor       |
 |-----------------|------------|----------------------|
 | Uranian Blue    | `#AEDFF7`  | ![#AEDFF7](https://via.placeholder.com/10/AEDFF7?text=+) |
-| Celadon    | `#A8D5BA`  | ![#A8D5BA](https://via.placeholder.com/10/A8D5BA?text=+) |
-| Davy’s Gray      | `#5c5c5c`  | ![#5c5c5c](https://via.placeholder.com/10/5c5c5c?text=+) |
+| Celadon         | `#A8D5BA`  | ![#A8D5BA](https://via.placeholder.com/10/A8D5BA?text=+) |
+| Davy’s Gray     | `#5C5C5C`  | ![#5C5C5C](https://via.placeholder.com/10/5C5C5C?text=+) |
 | White Smoke     | `#F5F5F5`  | ![#F5F5F5](https://via.placeholder.com/10/F5F5F5?text=+) |
-| Indigo Dye     | `#005377`  | ![#005377](https://via.placeholder.com/10/005377?text=+) |
+| Indigo Dye      | `#005377`  | ![#005377](https://via.placeholder.com/10/005377?text=+) |  
 
+Essas cores transmitem inovação, confiança e comunicação eficaz, refletindo valores como **criatividade**, **liderança**, **empatia** e **objetividade**.
 
-Essas cores transmitem uma mensagem de inovação, confiança e comunicação eficaz, refletindo habilidades valiosas para o sucesso profissional: criatividade, liderança, empatia e objetividade.
+---
 
-## Tipografia
-**Poppins**, uma fonte que equilibra profissionalismo e acessibilidade!
+## Tipografia  
+Utilizamos a fonte **Poppins**, que equilibra **profissionalismo** e **acessibilidade**, proporcionando uma leitura clara e moderna.
 
-## Símbolo do Polvo 🐙
-O logotipo da DevEmpower pode unir a ideia de versatilidade e força dos desenvolvedores com a representação visual de um polvo, um símbolo perfeito
-para a multiplicidade de habilidades exigidas na tecnologia. Cada tentáculo do polvo pode representar uma
-competência essencial – como linguagem de programação, soft skills, resolução de problemas e inovação – simbolizando o apoio completo que a DevEmpower oferece aos desenvolvedores para que brilhem em todas as frentes. Visualmente, o polvo poderia ter uma aparência moderna, com linhas fluidas e formas geométricas que remetam a circuitos e conexões digitais, criando uma ponte entre a natureza multifuncional do polvo e o universo tecnológico.
+---
 
+## Símbolo do Polvo 🐙  
+O polvo simboliza a versatilidade e a força dos desenvolvedores. Cada tentáculo representa uma competência essencial, como:  
+- Linguagem de programação  
+- Soft skills  
+- Resolução de problemas  
+- Inovação  
+
+Visualmente, o polvo apresenta linhas modernas e formas geométricas que remetem a **circuitos e conexões digitais**, unindo natureza multifuncional e tecnologia.
 
 ---
