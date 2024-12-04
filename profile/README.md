@@ -8,13 +8,13 @@ A **DevEmpower** é uma plataforma que aprimora habilidades interpessoais e téc
 
 ---
 
-## Nossa Missão  
+## Missão  
 Ajudar novos profissionais da tecnologia a se destacarem no mercado, oferecendo uma plataforma focada em **soft skills** e desenvolvimento profissional.  
 
-## Nossa Visão  
+## Visão  
 Ser a plataforma de capacitação mais completa, preparando desenvolvedores para enfrentar desafios dos processos seletivos na área de tecnologia.  
 
-## Nossos Valores  
+## Valores  
 - **Prática e Inovação**  
 - **Ética e Transparência**  
 - **Inclusão e Diversidade**  
@@ -24,8 +24,10 @@ Ser a plataforma de capacitação mais completa, preparando desenvolvedores para
 ---
 
 ## ODS 8 - Trabalho Decente e Crescimento Econômico  
-
 Nosso compromisso é contribuir para um mercado de trabalho mais inclusivo e preparado, alinhado aos objetivos de desenvolvimento sustentável.  
+
+## Contexto
+A DevEmpower prepara desenvolvedores para desafios do mercado, focando em soft skills como comunicação e trabalho em equipe, conectando talentos a empresas que valorizam diversidade e inovação.
 
 ---
 
@@ -36,6 +38,12 @@ Conteúdos dinâmicos simulando situações reais do mercado, desenvolvendo habi
 
 ### 2. **Comunidade**  
 Espaço de troca de experiências, networking e suporte com **mentores**, **profissionais da área** e outros usuários.
+
+### 3. **Mentorias Individuais**
+as mentorias focam no desenvolvimento contínuo e na adaptação à cultura da empresa, auxiliando na integração e no sucesso dentro do ambiente corporativo.
+
+
+
 
 ---
 
@@ -50,11 +58,10 @@ Nossa identidade visual reflete **transparência** e **confiança**, com um desi
 
 | Cor             | Código HEX | Exemplo de Cor       |
 |-----------------|------------|----------------------|
-| Uranian Blue    | `#AEDFF7`  | ![#AEDFF7](https://via.placeholder.com/10/AEDFF7?text=+) |
-| Celadon         | `#A8D5BA`  | ![#A8D5BA](https://via.placeholder.com/10/A8D5BA?text=+) |
-| Davy’s Gray     | `#5C5C5C`  | ![#5C5C5C](https://via.placeholder.com/10/5C5C5C?text=+) |
-| White Smoke     | `#F5F5F5`  | ![#F5F5F5](https://via.placeholder.com/10/F5F5F5?text=+) |
-| Indigo Dye      | `#005377`  | ![#005377](https://via.placeholder.com/10/005377?text=+) |  
+| Uranian Blue    | #AEDFF7  | ![#AEDFF7](https://via.placeholder.com/10/AEDFF7?text=+) |
+| Celadon         | #A8D5BA  | ![#A8D5BA](https://via.placeholder.com/10/A8D5BA?text=+) |
+| White Smoke     | #F5F5F5  | ![#F5F5F5](https://via.placeholder.com/10/F5F5F5?text=+) |
+| Indigo Dye      | #005377  | ![#005377](https://via.placeholder.com/10/005377?text=+) |  
 
 Essas cores transmitem inovação, confiança e comunicação eficaz, refletindo valores como **criatividade**, **liderança**, **empatia** e **objetividade**.
 
