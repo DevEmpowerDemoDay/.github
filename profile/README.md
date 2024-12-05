@@ -42,7 +42,7 @@ Apoio personalizado para integração e desenvolvimento contínuo no ambiente co
    <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px; padding-left: 50px; padding-right: 50px;">
   <figure style="text-align: center;">
     <a href="https://www.linkedin.com/in/murilo-coelho10/" target="_blank">
-      <img src="assets/foto_Murilo.png" alt="Murilo Coelho" width="190" height="230" style="border-radius: 50%;" />
+      <img src="assets/01.png" alt="Murilo Coelho" />
     </a>
   </figure>
    </div>
