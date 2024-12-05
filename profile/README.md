@@ -89,19 +89,19 @@ Aqui estão os talentos por trás da DevEmpower:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px; padding-left: 50px; padding-right: 50px;">
   <figure style="text-align: center;">
     <a href="https://www.linkedin.com/in/murilo-coelho10/" target="_blank">
-      <img src="assets/foto_Murilo.png" alt="Murilo Coelho" width="250" height="250" style="border-radius: 50%;" />
+      <img src="assets/foto_Murilo.svg" alt="Murilo Coelho" width="190" height="230" style="border-radius: 50%;" />
     </a>
   </figure>
 
   <figure style="text-align: center;">
     <a href="https://www.linkedin.com/in/andressa-prudente-morais/" target="_blank">
-      <img src="assets/foto_Andressa.png" alt="Andressa Prudente" width="250" height="250" style="border-radius: 50%;" />
+      <img src="assets/foto_Andressa.svg" alt="Andressa Prudente" width="190" height="230" style="border-radius: 50%;" />
     </a>
   </figure>
 
   <figure style="text-align: center;">
     <a href="https://www.linkedin.com/in/anna-cristina-/" target="_blank">
-      <img src="assets/foto_Anna.png" alt="Anna Cristina" width="250" height="250" style="border-radius: 50%;" />
+      <img src="assets/foto_Anna.svg" alt="Anna Cristina" width="190" height="230" style="border-radius: 50%;" />
     </a>
   </figure>
 </div>
@@ -109,19 +109,19 @@ Aqui estão os talentos por trás da DevEmpower:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px; padding-left: 50px; padding-right: 50px;">
   <figure style="text-align: center;">
     <a href="https://www.linkedin.com/in/hudsonsouza1914/" target="_blank">
-      <img src="assets/foto_Hudson.png" alt="Hudson" width="250" height="250" style="border-radius: 50%;" />
+      <img src="assets/foto_Hudson.svg" alt="Hudson" width="190" height="230" style="border-radius: 50%;" />
     </a>
   </figure>
 
   <figure style="text-align: center;">
     <a href="https://www.linkedin.com/in/maykon-silva-dev/" target="_blank">
-      <img src="assets/foto_Maykon.png" alt="Maykon Silva" width="250" height="250" style="border-radius: 50%;" />
+      <img src="assets/foto_Maykon.png" alt="Maykon Silva" width="190" height="230" style="border-radius: 50%;" />
     </a>
   </figure>
 
   <figure style="text-align: center;">
     <a href="https://www.linkedin.com/in/kauan-lusbel/" target="_blank">
-      <img src="assets/foto_Kauan.png" alt="Kauan Lusbel" width="250" height="250" style="border-radius: 50%;" />
+      <img src="assets/foto_Kauan.png" alt="Kauan Lusbel" width="190" height="230" style="border-radius: 50%;" />
     </a>
   </figure>
 </div>
@@ -129,13 +129,13 @@ Aqui estão os talentos por trás da DevEmpower:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 120px; padding-left: 50px; padding-right: 50px;">
   <figure style="text-align: center;">
     <a href="https://www.linkedin.com/in/victor-zampella/" target="_blank">
-      <img src="assets/foto_Victor.png" alt="Victor Curtis" width="250" height="250" style="border-radius: 50%;" />
+      <img src="assets/foto_Victor.png" alt="Victor Curtis" width="190" height="230" style="border-radius: 50%;" />
     </a>
   </figure>
 
   <figure style="text-align: center;">
     <a href="https://www.linkedin.com/in/matheusolvcosta/" target="_blank">
-      <img src="assets/foto_Matheus.png" alt="Matheus Oliveira" width="250" height="250" style="border-radius: 50%;" />
+      <img src="assets/foto_Matheus.png" alt="Matheus Oliveira" width="190" height="230" style="border-radius: 50%;" />
     </a>
   </figure>
 </div>
