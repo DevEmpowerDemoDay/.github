@@ -1,4 +1,4 @@
-<img src="assets/logotipoDevEmpower.svg" alt="logo DevEmpower" width="400" height="400" class="logo" />
+<img src="assets/logotipoDevEmpower(1).svg" alt="logo DevEmpower" width="400" height="150" class="logo" />
 
 # Bem-vindo(a) à **DevEmpower** 🐙  
 
