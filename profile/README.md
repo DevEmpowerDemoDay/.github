@@ -1,6 +1,4 @@
-
-
-   <img src="assets/logo_with_text.svg" alt="logo DevEmpower" width="400" height="600" style="border-radius: 50%;"/>
+<img src="assets/logo_with_text.svg" alt="logo DevEmpower" width="400" height="600" style="border-radius: 50%;"/>
 
 # Bem-vindo(a) à **DevEmpower** 🐙  
 
