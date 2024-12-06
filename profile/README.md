@@ -1,5 +1,5 @@
-<div align="center" style="line-height: 1.2;">
-  <img src="assets/logo_with_text.svg" alt="logo DevEmpower" width="400" height="400"/>
+<d<div align="center">
+  <img src="assets/logo_with_text.svg" alt="logo DevEmpower" width="400" height="400" style="margin-bottom: -30px;"/>
   
   <h1>Bem-vindo(a) à <strong>DevEmpower</strong> 🐙</h1>
 </div>
