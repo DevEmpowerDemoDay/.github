@@ -149,7 +149,7 @@ Aqui estão os talentos por trás da DevEmpower:
 ### Links Úteis:
 
 - **[Figma]:** https://www.figma.com/design/WT6KY8IGfKhi5x7xX1brZC/Prot%C3%B3tipo-Oficial?node-id=0-1&t=rgBKMQchwLNr3LAU-1.
-- **[Dossiê]:** .
+- **[Dossiê]:** https://heyzine.com/flip-book/3ec2bb4599.html .
 - **[Trello]:** https://trello.com/b/gcTnyhDe/demoday-03.
 
 
