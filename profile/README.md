@@ -146,11 +146,6 @@ Aqui estão os talentos por trás da DevEmpower:
 
 ### Links Úteis:
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; padding: 20px;">
-  <img src="assets/foto_Matheus.png" alt="Matheus Oliveira" width="250" height="300" style="border-radius: 50%;" />
-     <img src="assets/foto_Matheus.png" alt="Matheus Oliveira" width="250" height="300" style="border-radius: 50%;" />
-</div>
-
 - **[Figma]:** https://www.figma.com/design/WT6KY8IGfKhi5x7xX1brZC/Prot%C3%B3tipo-Oficial?node-id=0-1&t=rgBKMQchwLNr3LAU-1.
 - **[Dossiê]:** https://heyzine.com/flip-book/3ec2bb4599.html .
 - **[Trello]:** https://trello.com/b/gcTnyhDe/demoday-03.
